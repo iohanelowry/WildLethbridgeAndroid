@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="372128ae-e253-4e53-ae1e-ef064485bfc2" name="Default Changelist" comment="This is the start">
+      <change afterPath="$PROJECT_DIR$/.idea/WildLethbridgeAndroid.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WildLethbridge/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WildLethbridge/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WildLethbridge/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WildLethbridge/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WildLethbridge/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WildLethbridge/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WildLethbridge/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WildLethbridge/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WildLethbridge/app/src/androidTest/java/com/example/wildlethbridge/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WildLethbridge/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WildLethbridge/app/src/main/java/com/example/wildlethbridge/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WildLethbridge/app/src/main/java/com/example/wildlethbridge/mainEntry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WildLethbridge/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WildLethbridge/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WildLethbridge/app/src/main/res/drawable/wildlethbridge/BuildConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WildLethbridge/app/src/main/res/drawable/wildlethbridgelogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WildLethbridge/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WildLethbridge/app/src/main/res/layout/activity_main_entry.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WildLethbridge/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WildLethbridge/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WildLethbridge/app/src/main/res/mipmap-anydpi-v26/wildlethbridgeicon.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WildLethbridge/app/src/main/res/mipmap-anydpi-v26/wildlethbridgeicon_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WildLethbridge/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WildLethbridge/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WildLethbridge/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WildLethbridge/app/src/main/res/mipmap-hdpi/wildlethbridgeicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WildLethbridge/app/src/main/res/mipmap-hdpi/wildlethbridgeicon_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WildLethbridge/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WildLethbridge/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WildLethbridge/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WildLethbridge/app/src/main/res/mipmap-mdpi/wildlethbridgeicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WildLethbridge/app/src/main/res/mipmap-mdpi/wildlethbridgeicon_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WildLethbridge/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WildLethbridge/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WildLethbridge/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WildLethbridge/app/src/main/res/mipmap-xhdpi/wildlethbridgeicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WildLethbridge/app/src/main/res/mipmap-xhdpi/wildlethbridgeicon_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WildLethbridge/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WildLethbridge/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WildLethbridge/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WildLethbridge/app/src/main/res/mipmap-xxhdpi/wildlethbridgeicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WildLethbridge/app/src/main/res/mipmap-xxhdpi/wildlethbridgeicon_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WildLethbridge/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WildLethbridge/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WildLethbridge/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WildLethbridge/app/src/main/res/mipmap-xxxhdpi/wildlethbridgeicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WildLethbridge/app/src/main/res/mipmap-xxxhdpi/wildlethbridgeicon_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WildLethbridge/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WildLethbridge/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WildLethbridge/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WildLethbridge/app/src/main/wildlethbridgeicon-web.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WildLethbridge/app/src/test/java/com/example/wildlethbridge/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WildLethbridge/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WildLethbridge/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WildLethbridge/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WildLethbridge/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WildLethbridge/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WildLethbridge/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WildLethbridge/settings.gradle" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1820773689">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="txt" value="23" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="23" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/WildLethbridge/app/src/main/res/drawable/wildlethbridge/BuildConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="iohane" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="258" />
+    <option name="height" value="230" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="WildLethbridgeAndroid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WildLethbridgeAndroid" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WildLethbridgeAndroid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WildLethbridgeAndroid" type="462c0819:PsiDirectoryNode" />
+              <item name="WildLethbridge" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WildLethbridgeAndroid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WildLethbridgeAndroid" type="462c0819:PsiDirectoryNode" />
+              <item name="WildLethbridge" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WildLethbridgeAndroid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WildLethbridgeAndroid" type="462c0819:PsiDirectoryNode" />
+              <item name="WildLethbridge" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WildLethbridgeAndroid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WildLethbridgeAndroid" type="462c0819:PsiDirectoryNode" />
+              <item name="WildLethbridge" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WildLethbridgeAndroid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WildLethbridgeAndroid" type="462c0819:PsiDirectoryNode" />
+              <item name="WildLethbridge" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WildLethbridgeAndroid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WildLethbridgeAndroid" type="462c0819:PsiDirectoryNode" />
+              <item name="WildLethbridge" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="372128ae-e253-4e53-ae1e-ef064485bfc2" name="Default Changelist" comment="" />
+      <created>1553013300214</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553013300214</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="-6" width="1381" height="925" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" visible="true" weight="0.1724907" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.3299748" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Palette&#9;" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="This is the start" />
+    <option name="LAST_COMMIT_MESSAGE" value="This is the start" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/WildLethbridge/app/src/main/res/drawable/wildlethbridge/BuildConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
